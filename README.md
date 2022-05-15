@@ -1,5 +1,5 @@
 # About
-Utilizing the image set Cifar-10, a model that is trained on classification image processing is compared to the pre-built model "VGG16" using transfer learning. 
+Utilizing the image set Cifar-10 and transfer learning, a model that is trained on classification image processing is compared to the pre-built model "VGG16". 
 
 # Viewing
 This project was done in Python notebook and can be viewed alternatively in Jupyter's nbviewer for the best results.
