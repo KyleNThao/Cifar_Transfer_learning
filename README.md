@@ -1,5 +1,5 @@
 # About
-Utilizing the image set Cifar-10 and transfer learning, a model that is trained on classification image processing is compared to the pre-built model [`VGG16`](https://www.geeksforgeeks.org/vgg-16-cnn-model/). 
+Utilizing the image set Cifar-10 and transfer learning, a model that is trained on classification image processing is compared to the pre-built CNN model [`VGG16`](https://www.geeksforgeeks.org/vgg-16-cnn-model/). 
 
 # Viewing
 This project was done in Python notebook and can be viewed alternatively in Jupyter's nbviewer for the best results.
